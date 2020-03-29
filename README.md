@@ -9,3 +9,11 @@
 - [ ] Viewing page
 - [ ] Editing page
 - [ ] _Account Page_
+
+#### Outline
+- [x] initialize github
+- [ ] create static pages
+    - [ ] create html
+    - [ ] style pages
+    - [ ] create clientside/static js
+- [ ] convert pages to dynamic with express and node.js
