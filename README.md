@@ -5,7 +5,7 @@
 * Allow for CRUD of game list
 
 ### Page Listings
-- [] Landing page
-- [] Viewing page
-- [] Editing page
-- [] _Account Page_
+- [ ] Landing page
+- [ ] Viewing page
+- [ ] Editing page
+- [ ] _Account Page_
