@@ -3,6 +3,9 @@
 ## Goal
 * This app is designed to allow users to keep an internet/cloud copy of the list of their video games and the console or storefront they own it in.
 * Allow for CRUD of game list
+* track user hours
+* Manage game completion and level of completion
+* recommend a game based on completion level and also choose a random game
 
 ### Page Listings
 - [ ] Landing page
