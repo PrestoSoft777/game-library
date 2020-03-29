@@ -17,3 +17,9 @@
     - [ ] style pages
     - [ ] create clientside/static js
 - [ ] convert pages to dynamic with express and node.js
+
+##### Static pages
+- [ ] Landing page
+- [ ] Viewing page
+- [ ] Editing page
+- [ ] _Account Page_
