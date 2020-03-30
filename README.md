@@ -18,7 +18,7 @@
 - [ ] create static pages
     - [ ] create html
     - [ ] style pages
-    - [ ] create clientside/static js
+    - [ ] create client side/static js
 - [ ] convert pages to dynamic with express and node.js
 
 ##### Static pages
