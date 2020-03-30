@@ -1,3 +1,4 @@
+~~Notes~~
 # Game Library
 
 ## Goal
@@ -9,6 +10,7 @@
 
 ### Page Listings
 - [ ] Landing page
+- [ ] List page
 - [ ] Viewing page
 - [ ] Editing page
 - [ ] _Account Page_
@@ -23,6 +25,18 @@
 
 ##### Static pages
 - [ ] Landing page
+- [ ] List page
 - [ ] Viewing page
 - [ ] Editing page
 - [ ] _Account Page_
+
+##### Landing notes
+* Recommend game
+* Show random game
+* Quickly add games
+
+##### List notes
+
+##### View notes
+
+##### Editing notes
