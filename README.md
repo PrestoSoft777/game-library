@@ -30,6 +30,18 @@
 - [ ] Editing page
 - [ ] _Account Page_
 
+#### Game Data
+* Name (Field string)
+* Image (Field img)
+* Number of play-through (Field number)
+* List platforms (Checkbox)
+  * Digital or physical? (Checkbox)
+* List level of completion (Slider?)
+  * 100%
+  * Finish
+  * Started
+  * Owned
+
 ##### Landing notes
 * Recommend game
 * Show random game
