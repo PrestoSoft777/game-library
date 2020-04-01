@@ -33,6 +33,7 @@
 #### Game Data
 * Name (Field string)
 * Image (Field img)
+* Year
 * Number of play-through (Field number)
 * List platforms (Checkbox)
   * Digital or physical? (Checkbox)
@@ -41,6 +42,7 @@
   * Finish
   * Started
   * Owned
+  * Fully Unlocked (checkbox)
 
 ##### Landing notes
 * Recommend game
