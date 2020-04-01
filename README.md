@@ -33,7 +33,11 @@
 #### Game Data
 * Name (Field string)
 * Image (Field img)
+<<<<<<< HEAD
 * Year
+=======
+* Year of Release (Field number)
+>>>>>>> 0d51d207a073168c1729ed416915feb77555aef6
 * Number of play-through (Field number)
 * List platforms (Checkbox)
   * Digital or physical? (Checkbox)
