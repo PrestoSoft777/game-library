@@ -1,0 +1,23 @@
+body {
+ background-color: navy !important;
+ color: white;
+}
+
+nav {
+  background-color: grey;
+}
+
+h3 {
+  color: grey;
+  text-decoration: underline;
+}
+
+div {
+  color: white;
+}
+
+.container{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
