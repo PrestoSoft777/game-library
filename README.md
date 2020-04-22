@@ -50,6 +50,9 @@
 * Quickly add games
 
 ##### List notes
+* Table listing Game information
+    * Add box-art thumbnails?
+* _Allow for Listing by platform and playlist_
 
 ##### View notes
 
