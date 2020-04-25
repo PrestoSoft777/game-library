@@ -52,6 +52,7 @@
 ##### List notes
 * Table listing Game information
     * Add box-art thumbnails?
+* Game title link to detail page, platform link to list of games by platform
 * _Allow for Listing by platform and playlist_
 
 ##### View notes
